@@ -1,0 +1,26 @@
+.loader {
+    flex: 1;
+    justify-content: center;
+  }
+  
+  .errorContainer {
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .errorText {
+    font-size: 18px;
+    color: red;
+  }
+  
+  .itemContainer {
+    padding: 10px;
+    border-bottom-width: 1px;
+    border-bottom-color: #ccc;
+  }
+  
+  .itemText {
+    font-size: 18px;
+  }
+  

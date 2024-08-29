@@ -1,0 +1,15 @@
+.container {
+    flex: 1;
+    justify-content: center;
+    padding: 16px;
+  }
+  
+  .input {
+    height: 40px;
+    border-color: gray;
+    border-width: 1px;
+    margin-bottom: 12px;
+    padding: 8px;
+
+}
+  

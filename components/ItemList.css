@@ -1,0 +1,9 @@
+.itemContainer {
+  padding: 10px;
+  border-bottom-width: 1px;
+  border-bottom-color: #ccc;
+}
+
+.itemText {
+  font-size: 18px;
+}
